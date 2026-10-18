@@ -16,7 +16,7 @@ and investigate every result with its evidence.
 > since 2022 and continuously maintained and updated. This public repository is a curated presentation of it: the
 > product's documentation, screenshots of the real application, its verification record, release notes and
 > third-party notices. It contains **no source code, model weights, datasets or customer data**; the complete project
-> is kept in a private repository. Veyra's desktop studio is built on FluentQt Community and FluentQt Pro, which are not
+> is kept in a private repository. Veyra's desktop studio is built on [FluentQt](https://github.com/pntrungbk15/fluentqt-showcase) Community and FluentQt Pro, which are not
 > publicly available either.
 
 ![Overview: today's inspections, NG rate over completed inspections, indeterminate and error results kept apart, throughput and latency; results over time; rejected parts waiting for review; four cameras; the newest NG evidence](docs/images/home-light.png)
